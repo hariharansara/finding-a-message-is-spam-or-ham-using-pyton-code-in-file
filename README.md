@@ -1,0 +1,1 @@
+In spam dection the file can be created or import form existed file in your PC and in prection 1 represtion yes state (that is some words in imported spam git.csv is matching in the data given to the imported file)
